@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="modulo1f3.proyecto.interviewer.MenuTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-29T19:25:35" hostname="LAPTOP-6DH68450" time="0.033">
+  <properties/>
+  <testcase name="updateInterviewer()" classname="modulo1f3.proyecto.interviewer.MenuTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
